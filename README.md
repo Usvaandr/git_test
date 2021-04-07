@@ -1,0 +1,1 @@
+This is Andrius' first git project!
